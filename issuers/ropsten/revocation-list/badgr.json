@@ -1,8 +1,8 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/sivai2i/blockcerts-certificates/master/issuers/ropsten/badgr.json",
+  "id": "https://raw.githubusercontent.com/arunvicky94/blockcerts-certificates/master/issuers/ropsten/badgr.json",
   "type": "RevocationList",
-  "issuer": "https://raw.githubusercontent.com/sivai2i/blockcerts-certificates/master/issuers/ropsten/badgr.json",
+  "issuer": "https://raw.githubusercontent.com/arunvicky94/blockcerts-certificates/master/issuers/ropsten/badgr.json",
   "revokedAssertions": [
   ]
 }
